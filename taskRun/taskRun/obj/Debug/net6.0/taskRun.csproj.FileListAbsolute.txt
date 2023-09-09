@@ -1,0 +1,121 @@
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\bin\Debug\net6.0\taskRun.exe
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\bin\Debug\net6.0\taskRun.deps.json
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\bin\Debug\net6.0\taskRun.runtimeconfig.json
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\bin\Debug\net6.0\taskRun.dll
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\bin\Debug\net6.0\taskRun.pdb
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\taskRun.csproj.AssemblyReference.cache
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\taskRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\taskRun.AssemblyInfoInputs.cache
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\taskRun.AssemblyInfo.cs
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\taskRun.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\taskRun.dll
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\refint\taskRun.dll
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\taskRun.pdb
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\taskRun.genruntimeconfig.cache
+C:\Users\Gustavo instrutor\Documents\Task\taskRun\taskRun\obj\Debug\net6.0\ref\taskRun.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.exe
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.deps.json
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.runtimeconfig.json
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.pdb
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.csproj.AssemblyReference.cache
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.AssemblyInfoInputs.cache
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.AssemblyInfo.cs
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\refint\taskRun.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.pdb
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.genruntimeconfig.cache
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\ref\taskRun.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Serilog.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.csproj.CopyComplete
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Gustavo\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\appsettings.json
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.exe
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\appsettings.json
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.deps.json
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.runtimeconfig.json
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\taskRun.pdb
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Serilog.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.csproj.AssemblyReference.cache
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.AssemblyInfoInputs.cache
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.AssemblyInfo.cs
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.csproj.CoreCompileInputs.cache
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.csproj.CopyComplete
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\refint\taskRun.dll
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.pdb
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\taskRun.genruntimeconfig.cache
+C:\Users\Kaua VAR\OneDrive\Documentos\SOLUTIONS\Task\TaskRun\taskRun\taskRun\obj\Debug\net6.0\ref\taskRun.dll
